@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace MyStack.Stack;
+namespace MyStack;
 
 public class MyStackTests
 {

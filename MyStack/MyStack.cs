@@ -1,4 +1,4 @@
-namespace MyStack.Stack;
+namespace MyStack;
 
 public class MyStack<T>
 {
